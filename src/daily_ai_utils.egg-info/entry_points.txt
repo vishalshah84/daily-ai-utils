@@ -1,0 +1,2 @@
+[console_scripts]
+daily-ai-utils = daily_ai_utils.cli:main
