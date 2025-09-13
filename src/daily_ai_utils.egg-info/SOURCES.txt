@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/daily_ai_utils/__init__.py
+src/daily_ai_utils/cli.py
+src/daily_ai_utils.egg-info/PKG-INFO
+src/daily_ai_utils.egg-info/SOURCES.txt
+src/daily_ai_utils.egg-info/dependency_links.txt
+src/daily_ai_utils.egg-info/entry_points.txt
+src/daily_ai_utils.egg-info/top_level.txt
+src/daily_ai_utils/text/__init__.py
+src/daily_ai_utils/text/wordcount.py
