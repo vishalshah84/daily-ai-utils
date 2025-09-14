@@ -6,6 +6,13 @@ Author: Vishal Krishna Shah
 Requires-Python: >=3.10
 Description-Content-Type: text/markdown
 License-File: LICENSE
+Requires-Dist: pandas
 Dynamic: license-file
 
 # daily-ai-utils
+## Usage
+
+### Wordcount
+```bash
+daily-ai-utils wordcount README.md
+echo "hello" | daily-ai-utils wordcount
